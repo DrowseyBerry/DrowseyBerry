@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DrowseyBerry
-- 👀 I’m interested in software and web service testing.
+- 👀 I’m interested in software, web service and mobile testing.
 - 🌱 I’m currently studying QA courses and looking to become QA Testing junior.
 - 📫 How to reach me - flashon.orange@gmail.com
 
