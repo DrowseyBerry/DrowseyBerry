@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DrowseyBerry
 - 👀 I’m interested in software, web service and mobile testing.
 - 🌱 I’m currently studying QA courses and looking to become QA Testing junior.
-- 📫 How to reach me - flashon.orange@gmail.com
 
 <!---
 DrowseyBerry/DrowseyBerry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
